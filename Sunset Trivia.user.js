@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Sunset Trivia
 // @namespace    https://sniff.org/
-// @version      0.3
+// @version      0.4
 // @description  Keeping trivia easy
 // @author       Lance Held
 // @match        https://triviarat.com/*
@@ -279,7 +279,7 @@ const initForm = () => {
     });
 
     $('.trivia-copy').on('click', () => {
-      GM_setClipboard(JSON.stringify(store, 2), 'json');
+      GM_setClipboard(JSON.stringify(store, null, 2));
     });
 
     $('.trivia-category').on('input', function() {
