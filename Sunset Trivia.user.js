@@ -16,8 +16,8 @@
 // @require      https://cdn.jsdelivr.net/combine/gh/lodash/lodash@4.17.11/dist/lodash.min.js,gh/lodash/lodash@4.17.11/dist/lodash.fp.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/uuid/8.3.2/uuidv4.min.js
 // @resource     SEMANTIC_UI_CSS https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css
-// @updateURL    https://github.com/lanceheld/tampermonkey-triviarat/blob/main/Sunset%20Trivia.user.js
-// @downloadURL  https://github.com/lanceheld/tampermonkey-triviarat/blob/main/Sunset%20Trivia.user.js
+// @updateURL    https://github.com/lanceheld/tampermonkey-triviarat/raw/main/Sunset%20Trivia.user.js
+// @downloadURL  https://github.com/lanceheld/tampermonkey-triviarat/raw/main/Sunset%20Trivia.user.js
 // ==/UserScript==
 
 var $ = window.jQuery;
