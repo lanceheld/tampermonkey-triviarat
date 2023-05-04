@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Sunset Trivia
 // @namespace    https://sniff.org/
-// @version      0.4
+// @version      0.5
 // @description  Keeping trivia easy
 // @author       Lance Held
 // @match        https://triviarat.com/*
